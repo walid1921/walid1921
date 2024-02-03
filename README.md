@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hey, I'm Walid 👋🏼
 
-<!--
-**walid1921/walid1921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 25-year-old developer based in Germany, and I'm passionate about crafting digital experiences.
 
-Here are some ideas to get you started:
+* Check out my website to learn more about me.
+* Stay updated with my journey on Instagram, LinkedIn and YouTube.
+* Explore my VS Code Configuration for development optimization.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Fun fact: ...
+
