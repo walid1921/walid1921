@@ -4,7 +4,7 @@
 
 I'm a 25-year-old Full-Stack Developer based in Germany, with a unique background in Environmental Process Engineering.
 
-- Check out my [website](https://walidsportfolio.netlify.app/), to learn more about me.
+- Check out my [Portfolio](https://walidsportfolio.netlify.app/), to learn more about me.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/dev.n.des/) and [LinkedIn](https://www.linkedin.com/in/walid-kouider-ayad-487902218).
 - Explore my [VS Code Configuration]() for development optimization.
 
