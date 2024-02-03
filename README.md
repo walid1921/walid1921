@@ -2,23 +2,27 @@
 
 **`Degital Craftsman`** (Developer/Contetnt creator)
 
-I'm a 25-year-old full-stack developer based in Germany, and I'm passionate about crafting digital experiences.
+I'm a 25-year-old Full-Stack Developer based in Germany, with a unique background in Environmental Process Engineering.
 
-- Check out my website to learn more about me.
-- Stay updated with my journey on Instagram, LinkedIn, and YouTube.
-- Explore my VS Code Configuration for development optimization.
+- Check out my [website](https://walidsportfolio.netlify.app/), to learn more about me.
+- Stay updated with my journey on [Instagram](https://www.instagram.com/dev.n.des/) and [LinkedIn](https://www.linkedin.com/in/walid-kouider-ayad-487902218).
+- Explore my [VS Code Configuration]() for development optimization.
 
 # 📦 Skills & Development Tools
 
-**Frontend Development:** **`React`** **`TypeScript`** **`Tailwind`** **`Framer-Motion`**
+**Frontend Development:** **`React`** **`TypeScript`** **`Tailwind`** **`Sass`** **`Bootstrap`** **`Styled-components`** **`Framer-Motion`**
 
-**Version Control:** **`Git`** **`GitLab`**
+**Version Control:** **`Git`** **`Github`** **`GitLab`**
 
-**Backend Development:**  **`GraphQL`** **`Supabase`**
+**Backend Development:**  **`Node.js`** **`Express.js`**
+
+**Databeses:** **`SQL`**  **`NoSQL`** **`MongoDB`** **`Supabase`**
 
 **Testing:** **`Postman`** 
 
-**Others:** **`Scrum`** **`Jira`**
+**Others:** **`Scrum`** **`Jira`** **`Agile`**
+
+**Design:** **`Figma`**
 
 
 # 📫 Contact
