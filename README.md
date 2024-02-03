@@ -1,18 +1,19 @@
-### Hey, I'm Walid 👋🏼
+# Hey, I'm Walid 👋🏼
 
 I'm a 25-year-old developer based in Germany, and I'm passionate about crafting digital experiences.
 
-* Check out my website to learn more about me.
-* Stay updated with my journey on Instagram, LinkedIn and YouTube.
-* Explore my VS Code Configuration for development optimization.
+- Check out my website to learn more about me.
+- Stay updated with my journey on Instagram, LinkedIn and YouTube.
+- Explore my VS Code Configuration for development optimization.
+
+# 📦 Skills & Development Tools
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+
 - 😄 Pronouns: ...
 - ✨ Fun fact: ...
 
+# 📫 Contact
+For a quick response, DM me on Email, LinkedIn or <a href="https://www.instagram.com/dev.n.des/">Instagram</a>.
