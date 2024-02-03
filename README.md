@@ -16,4 +16,4 @@ I'm a 25-year-old developer based in Germany, and I'm passionate about crafting 
 - ✨ Fun fact: ...
 
 # 📫 Contact
-For a quick response, DM me on Email, LinkedIn or <a href="https://www.instagram.com/dev.n.des/">Instagram</a>.
+For a quick response, DM me on <a href="kouiderayadwalid@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/kouider-ayad-walid-487902218">LinkdIn</a> or <a href="https://www.instagram.com/dev.n.des/">Instagram</a>.
