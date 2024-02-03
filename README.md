@@ -1,6 +1,6 @@
 # Hey, I'm Walid 👋🏼
 
-**Degital Craftsman** (Developer/Contetnt creator)
+**`Degital Craftsman`** (Developer/Contetnt creator)
 
 I'm a 25-year-old full-stack developer based in Germany, and I'm passionate about crafting digital experiences.
 
@@ -10,15 +10,15 @@ I'm a 25-year-old full-stack developer based in Germany, and I'm passionate abou
 
 # 📦 Skills & Development Tools
 
-Frontend Development: React Next.js TypeScript Tailwind Material-UI Framer-Motion
+**Frontend Development:** **`React`** **`TypeScript`** **`Tailwind`** **`Framer-Motion`**
 
-Version Control: Git GitLab Bitbucket
+**Version Control:** **`Git`** **`GitLab`**
 
-Backend Development: Nest.js GraphQL Firebase
+**Backend Development:**  **`GraphQL`** **`Supabase`**
 
-Testing: Cypress Playwright Vitest Postman Insomnia
+**Testing:** **`Postman`** 
 
-Others: Storybook Zustand A11y Scrum Confluence Jira
+**Others:** **`Scrum`** **`Jira`**
 
 
 # 📫 Contact
