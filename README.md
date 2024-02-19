@@ -24,6 +24,7 @@ I'm a 25-year-old Full-Stack Developer based in Germany, with a unique backgroun
 
 **Design:** **`Figma`**
 
+# ✨ Fun Facts
 
 # 📫 Contact
 
