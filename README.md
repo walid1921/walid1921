@@ -24,7 +24,10 @@ I'm a 25-year-old Full-Stack Developer based in Germany, with a unique backgroun
 
 **Design:** **`Figma`**
 
-# ✨ Fun Facts
+# ✨ Soft Skills
+- Languages: Englisgh, Arabic, French, German
+- Design
+- Video & Photo Editing
 
 # 📫 Contact
 
