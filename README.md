@@ -10,7 +10,7 @@ I'm a 25-year-old Full-Stack Web Developer based in Germany, with a unique backg
 
 # 📦 Skills & Development Tools
 
-**Frontend Development:** **`React`** **`React Query`** **`Rest-API's`** **`axios`** **`TypeScript`** **`Tailwind`** **`Sass`** **`Bootstrap`** **`Styled-components`** **`Framer-Motion`**
+**Frontend Development:** **`React`** **`React Query`** **`Rest-API's`** **`TypeScript`** **`Tailwind`** **`Sass`** **`Bootstrap`** **`Styled-components`** **`Framer-Motion`**
 
 **Version Control:** **`Git`** **`Github`** **`GitLab`**
 
