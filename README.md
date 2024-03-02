@@ -20,7 +20,7 @@ I'm a 25-year-old Full-Stack Web Developer based in Germany, with a unique backg
 
 **Testing:** **`Postman`** 
 
-**Others:** **`ESLint`** **`Netlify`** **`Vercel`** **`Render`** **`Npm`** **`Yarn`** **`Scrum`** **`Jira`** **`Agile`**
+**Others:** **`ESLint`** **`Netlify`** **`Vercel`** **`Render`** **`Npm`** **`Yarn`** **`VS Code`** **`Scrum`** **`Jira`** **`Agile`**
 
 **Design:** **`Figma`**
 
