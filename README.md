@@ -6,7 +6,6 @@ I'm a 25-year-old Full-Stack Web Developer based in Germany, with a unique backg
 
 - Check out my [Portfolio](https://walidsportfolio.vercel.app/), to learn more about me.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/dev.n.des/) and [LinkedIn](https://www.linkedin.com/in/walid-kouider-ayad).
-- Explore my [VS Code Configuration]() for development optimization.
 
 # 📦 Skills & Development Tools
 
