@@ -2,7 +2,7 @@
 
 **`Degital Craftsman`** (Developer/Contetnt creator)
 
-I'm a 26-year-old Full-Stack Web Developer based in Germany, with a unique background in Environmental Process Engineering.
+I'm a 26-year-old Full-Stack Web Developer based in Germany, with a unique background in Environmental Process Engineering
 
 - Check out my [Portfolio](https://www.walidka-portfolio.com/), to learn more about me.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/dev.n.des/) and [LinkedIn](https://www.linkedin.com/in/walid-kouider-ayad).
