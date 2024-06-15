@@ -13,9 +13,7 @@ I'm a 26-year-old Full-Stack Web Developer based in Germany, with a unique backg
 
 **Version Control:** **`Git`** **`Github`** **`GitLab`**
 
-**Backend Development:**  **`Node.js`** **`Express.js`**
-
-**Database:** **`Mysql`** **`MongoDB`** **`Supabase`** **`Prisma`**
+**Backend Development:**  **`Node.js`** **`Express.js`** **`Mysql`** **`MongoDB`** **`Supabase`**
 
 **Testing:** **`Postman`** 
 
