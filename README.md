@@ -10,7 +10,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 ## 📦 Skills & Development Tools
 
-**Frontend Development:** **`Next.js`** **`React`** **`TypeScript`** **`React Query`** **`Rest-API's`** **`Tailwind`** **`Sass`** **`Styled-components`** **`Framer-Motion`** **`HTML`** **`CSS`** 
+**Frontend Development:** **`Next.js`** **`React`** **`TypeScript`** **`React Query`** **`REST API's`** **`Tailwind`** **`Sass`** **`Styled Components`** **`Framer Motion`** **`HTML`** **`CSS`** 
 
 **Version Control:** **`Git`** **`Github`** **`GitLab`**
 
