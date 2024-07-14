@@ -8,7 +8,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 - Check out my [Portfolio](https://www.walidka-portfolio.com/), to learn more about me.
 
-# 📦 Skills & Development Tools
+## 📦 Skills & Development Tools
 
 **Frontend Development:** **`Next.js`** **`React`** **`TypeScript`** **`React Query`** **`Rest-API's`** **`Tailwind`** **`Sass`** **`Styled-components`** **`Framer-Motion`** **`HTML`** **`CSS`** 
 
@@ -22,10 +22,10 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 **Design:** **`Figma`**
 
-# ✨ Soft Skills
+## ✨ Soft Skills
 - Languages: **`English`** **`Arabic`** **`French`** **`German`**
 - **`Design`** **`Video & Photo Editing`** **`Gaming`**
 
-# 📫 Contact
+## 📫 Contact
 
 For a quick response, DM me on [Email](mailto:kouiderayadwalid@gmail.com), [LinkedIn](https://www.linkedin.com/in/walid-kouider-ayad), or [Instagram](https://www.instagram.com/dev.n.des/).
