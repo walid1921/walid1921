@@ -1,4 +1,4 @@
-# Hey, I'm Walid 👋🏼
+## Hey, I'm Walid 👋🏼
 
 **`Degital Craftsman`** (Developer/Contetnt creator)
 
