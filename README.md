@@ -1,4 +1,4 @@
-## **`Degital Craftsman`** (Developer/Contetnt creator)
+## **`Degital Craftsman`** (Developer - Contetnt creator)
 
 Hey, I'm Walid 👋🏼 a 26-year-old Web Developer based in Germany.
 
