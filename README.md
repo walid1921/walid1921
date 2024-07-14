@@ -18,7 +18,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 **Testing:** **`Postman`** 
 
-**Others:** **`ESLint`** **`Netlify`** **`Vercel`** **`Render`** **`Npm`** **`Yarn`** **`VS Code`** **`Scrum`** **`Agile`**
+**Others:** **`ESLint`** **`Netlify`** **`Vercel`** **`Render`** **`npm`** **`yarn`** **`VS Code`** **`Scrum`** **`Agile`**
 
 **Design:** **`Figma`**
 
