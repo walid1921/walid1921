@@ -1,8 +1,6 @@
-## Hey, I'm Walid 👋🏼
+## **`Degital Craftsman`** (Developer/Contetnt creator)
 
-**`Degital Craftsman`** (Developer/Contetnt creator)
-
-I'm a 26-year-old Web Developer based in Germany.
+Hey, I'm Walid 👋🏼 a 26-year-old Web Developer based in Germany.
 
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
