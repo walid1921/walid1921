@@ -10,17 +10,8 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 ## 📦 Skills & Development Tools 
 
-**Frontend Development:** **`Next.js`** **`React`** **`TypeScript`** **`React Query`** **`REST API's`** **`Tailwind`** **`Sass`** **`Styled Components`** **`Framer Motion`** **`HTML`** **`CSS`** 
-
-**Version Control:** **`Git`** **`Github`** **`GitLab`**
-
-**Backend Development:**  **`Node.js`** **`Express.js`** **`Mysql`** **`MongoDB`** **`Supabase`**
-
-**Testing:** **`Postman`** 
-
-**Others:** **`ESLint`** **`Netlify`** **`Vercel`** **`Render`** **`npm`** **`yarn`** **`VS Code`** **`Scrum`** **`Agile`**
-
-**Design:** **`Figma`**
+**`Next.js`** **`React`** **`TypeScript`** **`Tailwind`** **`SASS`** **`Styled Components`** **`Framer Motion`**  **`Node.js`** **`Express.js`** **`Mysql`** **`MongoDB`** **`Supabase`** **`Postman`** 
+**`Figma`**
 
 ## ✨ Soft Skills
 - Languages: **`English`** **`Arabic`** **`French`** **`German`**
