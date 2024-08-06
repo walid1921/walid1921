@@ -8,7 +8,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 - Check out my [Portfolio](https://www.walidka-portfolio.com/), to learn more about me.
 
-## 📦 Skills & Development Tools
+## 📦 Skills & Development Tools 
 
 **Frontend Development:** **`Next.js`** **`React`** **`TypeScript`** **`React Query`** **`REST API's`** **`Tailwind`** **`Sass`** **`Styled Components`** **`Framer Motion`** **`HTML`** **`CSS`** 
 
