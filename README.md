@@ -1,6 +1,6 @@
 ## **`Degital Craftsman`**
 
-Hey, I'm Walid 👋🏼 A passionate web developer based in Germany.
+Hi there! it's me, Walid 👋🏼 a passionate web developer based in Germany.
 
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
