@@ -10,7 +10,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 ## 📦 Skills & Development Tools 
 
-**`Next.js`** **`React`** **`TypeScript`** **`Tailwind`** **`SASS`** **`Styled Components`** **`Framer Motion`**  **`Node.js`** **`Express.js`** **`MySQL`** **`MongoDB`** **`Supabase`** **`Postman`** 
+**`Next.js`** **`React`** **`TypeScript`** **`Tailwind`** **`SASS`** **`Styled Components`** **`Framer Motion`** **`PHP`** **`MySQL`** **`MongoDB`** **`Supabase`** **`Postman`** 
 **`Figma`**
 
 ## ✨ Soft Skills
